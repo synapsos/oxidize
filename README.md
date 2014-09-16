@@ -10,7 +10,7 @@ Make a small, extensible micro framework giving users the freedom to choose what
 Rust Version
 ============
 
-I try to keep it up to date with master, but if it ever falls behind, it should not be too hard to update. The codebase is pretty small.
+I try to keep it up to date with master, but if it ever falls behind, it should not be too hard to update. The codebase is pretty small. Current version: 0.10
 
 Building Oxidize
 ================
